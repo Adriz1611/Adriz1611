@@ -27,10 +27,9 @@ const adrij = {
 ```
 
 <br>
-<br>
 
 <div id="technologies-section">
-  <h2 align="center" style="margin-top: 20px; color: #fff;">My Tech Stack Expertise 👨🏻‍💻</h2>
+  <h2 align="center">My Tech Stack Expertise 👨🏻‍💻</h2>
   <p align="center">Here's a glimpse of the technologies I have hands-on experience with:</p>
   <div align="center">
     <a href="https://skillicons.dev">
@@ -38,25 +37,26 @@ const adrij = {
     </a>
   </div>
 </div>
+ 
 <br>
-<br>
-<div align=center>
+
+<div align=center ">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=kartikey-mittal&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriz1611&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
-
-
+</div>  
 
 <br>
-<br>
+
 <div align = "center"> 
 
- ![kks007's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry)  <img height="200px" width="250px" src="./assets/haha.jpg" > 
+ ![kks007's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry)
+ <br>
+ <br>
+![Alt text](./assets/haha.jpg?raw=true "Title")
 
 </div>
-<br>
-<br>
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
