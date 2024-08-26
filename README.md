@@ -53,7 +53,8 @@ const adrij = {
  ![kks007's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry)
  <br>
  <br>
-![Alt text](./assets/haha.jpg?raw=true "Title")
+<img src="./assets/haha.jpg?raw=true" alt="Title" height="200px" width="250px" />
+
 
 </div>
 
@@ -77,7 +78,7 @@ const adrij = {
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=kartikey-mittal&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adriz1611&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
