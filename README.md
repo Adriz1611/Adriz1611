@@ -42,7 +42,7 @@ const adrij = {
 
 <div align = "center"> 
 
- ![kks007's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry)  <img height="200px" width="200px" src="./assets/haha.png" > 
+ ![kks007's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry)  <img height="200px" width="200px" src="./assets/haha.jpg" > 
 
 </div>
 
