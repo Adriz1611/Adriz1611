@@ -1,7 +1,9 @@
 ## 👋 &nbsp;Hello, There!
 
-Just a polymath exploring what I can. <br>
-Reach out for collaborating on projects, web ideas, sci-fi marathons, or just for the sake of it.
+I'm Adrij Bhadra, a 3rd Year Full Stack Development aficionado at SRM IST, immersed in the intricacies of DevOps. My journey is one of pioneering innovation, synergistic collaborations, and exponential technological advancement. I'm always exploring new ideas and eager to forge connections with fellow avant-garde tech enthusiasts. 
+
+Feel free to reach out for collaborating on projects, web ideas, sci-fi marathons, or just for the sake of it. Let's navigate the uncharted territories of the digital frontier together!
+
 
 ```javascript
 const adrij = {
@@ -13,16 +15,14 @@ const adrij = {
       js: ["Node", "Express", "NextJS"],
     },
     databases: ["mongo", "MySql", "PostgreSQL"],
-    misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"],
+    BAAS: ["Firebase", "Supabase"],
+    tools: ["Git", "GitHub", "Postman", "Figma"],
+    styling: ["HTML", "CSS", "Tailwind CSS", "Material-UI", "shadcn"],
   },
-  architecture: [
-    "Serverless Architecture",
-    "Progressive web applications",
-    "Single page applications",
-  ],
+  mostrecentproject: "changespark.in",
   currentFocus: "No Focus point at this time",
   funFact:
-    "There are two ways to write error-free programs; only the third one works",
+    "The QWERTY layout keyboard was designed to slow you down",
 };
 ```
 
@@ -39,6 +39,7 @@ const adrij = {
 </div>
  
 <br>
+<br>
 
 <div align=center ">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -46,6 +47,7 @@ const adrij = {
     </a>
 </div>
 
+<br>
 <br>
 
 <div align = "center">
@@ -65,20 +67,15 @@ const adrij = {
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/adrijbhadra/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="100" height="30">
-  </a>
-<br>
-<a href="https://www.instagram.com/bhadra.it.is/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"  width="100" height="30">
-  </a>
-<br>
-<a href="mailto:adrijbhadra@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"  width="100" height="30">
-  </a>
+<a href="https://www.linkedin.com/in/adrijbhadra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="100" height="30"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/bhadra.it.is/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" width="100" height="30"></a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:adrijbhadra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="100" height="30"></a>
 </div>
 
-<br><br>
+<br>
+
 
 <div align="center">
   
