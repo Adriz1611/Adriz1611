@@ -4,25 +4,31 @@ I'm Adrij Bhadra, a 3rd Year Full Stack Development aficionado at SRM IST, immer
 
 Feel free to reach out for collaborating on projects, web ideas, sci-fi marathons, or just for the sake of it. Let's navigate the uncharted territories of the digital frontier together!
 
-
 ```javascript
 const adrij = {
   pronouns: "He" | "Him",
   code: ["Javascript", "C++"],
-  askMeAbout: ["web dev", "tech", "photography"],
+  askMeAbout: ["tech", "photography", "finance", "stock market"],
   technologies: {
     backEnd: {
-      js: ["Node", "Express", "NextJS"],
+      js: ["Node", "Express", "NestJS"],
     },
-    databases: ["mongo", "MySql", "PostgreSQL"],
+    databases: ["Mongo", "MySql", "PostgreSQL"],
+    devOps: ["Docker", "Kubernetes", "AWS (EC2)"],
     BAAS: ["Firebase", "Supabase"],
+    api: ["GraphQL", "REST"],
     tools: ["Git", "GitHub", "Postman", "Figma"],
     styling: ["HTML", "CSS", "Tailwind CSS", "Material-UI", "shadcn"],
   },
-  mostrecentproject: "changespark.in",
-  currentFocus: "No Focus point at this time",
-  funFact:
-    "The QWERTY layout keyboard was designed to slow you down",
+  mostrecentproject: "gameessentials.in",
+  currentFocus: "Building a multi-tenant Ecommerce Application & learning Devops",
+  leadership: "Web Dev Lead at Google Developers club SRM Modinagar",
+  education: {
+    degree: "B.Tech Computer Science",
+    year: "3rd Year",
+    specialization: "Business Systems",
+    institution: "SRM IST",
+  },
 };
 ```
 
@@ -33,32 +39,24 @@ const adrij = {
   <p align="center">Here's a glimpse of the technologies I have hands-on experience with:</p>
   <div align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,nextjs,react,nodejs,express,redux,mongodb,supabase,git,github,html,css,tailwind,materialui,cpp,postman,figma,cpp,vscode,discord&perline=5" />
+      <img src="https://skillicons.dev/icons?i=js,ts,cpp,react,html,css,tailwind,nodejs,express,graphql,nextjs,mongodb,postgres,supabase,aws,docker,kubernetes,ansible,git,postman,linux,ubuntu,vscode,webstorm,prisma&perline=5" />
     </a>
   </div>
 </div>
- 
-<br>
-<br>
-
-<div align=center ">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=adriz1611&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
 
 <br>
 <br>
 
 <div align=center ">
-  <a href="#" title="Go to Source">
-      <img align="center" width=84% src="![Adriz1611's Stats](https://github-readme-stats.vercel.app/api?username=Adriz1611&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)" alt="TROPHY" />
-    </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adriz1611&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Adriz1611's Streak" />
+</p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriz1611&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Adriz1611's Streak" />
+</p>
 <br>
 <br>
 <img src="./assets/haha.jpg?raw=true" alt="Title" height="200px" width="250px" />
-
 </div>
 
 <div id="user-content-toc">
@@ -69,18 +67,16 @@ const adrij = {
 </div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/adrijbhadra/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="100" height="30"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/bhadra.it.is/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" width="100" height="30"></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:adrijbhadra@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="100" height="30"></a>
+  <a href="https://www.linkedin.com/in/adrijbhadra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" height="30">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/bhadra.it.is/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="100" height="30">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adrijbhadra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="100" height="30">
+  </a>
 </div>
-
 <br>
-
-
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=adriz1611&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
