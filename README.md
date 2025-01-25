@@ -52,7 +52,7 @@ const adrij = {
 
 <div align = "center">
 
-![kks007's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry)
+![Adriz's GitHub stats]([https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry](https://github-readme-stats.vercel.app/api?username=Adriz1611&theme=gruvbox&show_icons=true&hide_border=false&count_private=true))
 <br>
 <br>
 <img src="./assets/haha.jpg?raw=true" alt="Title" height="200px" width="250px" />
