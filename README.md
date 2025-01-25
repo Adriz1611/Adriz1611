@@ -50,9 +50,11 @@ const adrij = {
 <br>
 <br>
 
-<div align = "center">
-
-![Adriz's GitHub stats]([https://github-readme-streak-stats.herokuapp.com/?user=Adriz1611&theme=blueberry](https://github-readme-stats.vercel.app/api?username=Adriz1611&theme=gruvbox&show_icons=true&hide_border=false&count_private=true))
+<div align=center ">
+  <a href="#" title="Go to Source">
+      <img align="center" width=84% src="![Adriz1611's Stats](https://github-readme-stats.vercel.app/api?username=Adriz1611&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)" alt="TROPHY" />
+    </a>
+</div>
 <br>
 <br>
 <img src="./assets/haha.jpg?raw=true" alt="Title" height="200px" width="250px" />
