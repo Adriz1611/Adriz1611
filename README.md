@@ -49,10 +49,10 @@ const adrij = {
 
 <div align=center ">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adriz1611&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Adriz1611's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adriz1611&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Adriz1611's Streak" />
 </p>
   <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriz1611&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Adriz1611's Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriz1611&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Adriz1611's Streak" />
 </p>
 <br>
 <br>
